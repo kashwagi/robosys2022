@@ -2,6 +2,7 @@
 # SPDX-FileCopyrightText: 2022 Yuki Kashiwagi
 # SPDX-License-Identifier: BSD-3-Clause
 
+
 ng () {
 	echo NG at Line $1
 	res=1
