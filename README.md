@@ -2,7 +2,9 @@
 
 # PLUS
 標準入力より与えられた数字を読み取りその合計を出力する。
-# TEST
+![test](https://github.com/kashiawgi/robosys2022/actions/workflows/test.yml/badge.svg)
+## 動作環境
+ubunntu22.04.1LTS環境で動作確認済み。Pythonに依存します。Ver3.7~3.10まで動作確認済み。
 
 # HOW TO USE
 
