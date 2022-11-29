@@ -1,8 +1,8 @@
 # robosys2022
 当レポジトリはGitHubやプログラムなどロボットシステムへの理解を深める学習目的で制作及び公開しています。
-![test](https://github.com/kashwagi/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ## plusコマンド
+![test](https://github.com/kashwagi/robosys2022/actions/workflows/test.yml/badge.svg)
 標準入力より数字を取得しその合計を出力する。
 ### インストール方法
 任意の場所に当レポジトリをクローンして使用。
