@@ -2,17 +2,17 @@
 当レポジトリはGitHubやプログラムなどロボットシステムへの理解を深める学習目的で制作及び公開しています。
 ![test](https://github.com/kashwagi/robosys2022/actions/workflows/test.yml/badge.svg)
 
-# plusコマンド
+## plusコマンド
 標準入力より数字を取得しその合計を出力する。
-## インストール方法
+### インストール方法
 任意の場所に当レポジトリをクローンして使用。
-## HOW TO USE
+### HOW TO USE
 $ seq 15 | ./plus
 
 120
-## 動作環境
+### 動作環境
 ubunntu22.04.1LTS環境で動作確認済み。
-## 必要なソフトウェア
+### 必要なソフトウェア
 Pythonが必要となります。  Ver3.7~3.10まで動作確認済みです。
 
 # 備考
