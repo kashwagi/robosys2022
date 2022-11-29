@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2022 Yuki Kashiwagi
+
 import collections
 
 dp = open('sample.txt','r',encoding='UTF-8')
