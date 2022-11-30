@@ -28,3 +28,7 @@ exit $res
     
 [ "$res" = 0 ] && echo OK
   exit $res
+
+#count test
+out=$(./count pppppppppp)
+[ "${out}" = 10 ] || ng ${LINENO}
