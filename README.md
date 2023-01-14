@@ -3,7 +3,7 @@
 
 当レポジトリは2022年度ロボットシステム学の講義内においてGitHubやプログラムなどロボットシステムへの理解を深める学習目的で制作及び公開しています。
 
-また、このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，>教育目的で本人の許可を得て自身の著作としたものを含みます。
+また、このパッケージのコードは下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを本人の許可を得て自身の著作としたものを含みます。
 
  [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
